@@ -11,7 +11,7 @@ A hands-on demo of **Decision Tree classification** with **pre-pruning** and **p
 ## 💻 Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/decision-tree-classification.git
+   https://github.com/Sidra-009/decision-tree-classification.git
 
 ⚖️ Key Takeaway
 
